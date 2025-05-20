@@ -1,0 +1,1 @@
+console.log("i love javascript its like a friend to me");
